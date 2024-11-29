@@ -5,7 +5,7 @@
 The **width** of a sequence is defined as the difference between the **maximum** and **minimum** elements in the sequence.  
 Given an array of integers `nums`, calculate the **sum of the widths** of all **non-empty subsequences** of `nums`.  
 
-Since the result may be very large, return the result **modulo \(10^9 + 7\)**.
+Since the result may be very large, return the result **modulo \(10^9 + 7\)**
 
 ---
 
