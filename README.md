@@ -10,7 +10,7 @@ Each solution is organized by **problem number** and **difficulty level** (Easy,
 
 ## 🏆 Goal
 
-The primary goal is to cover a broad spectrum of algorithmic challenges, helping us enhance problem-solving skills and prepare for technical interviews.
+The Primary goal is to cover a broad spectrum of algorithmic challenges, helping us enhance problem-solving skills and prepare for technical interviews.
 
 ## 📂 Folder Structure
 
